@@ -1,0 +1,86 @@
+{
+    "items" : [{
+                "text" : "Beverages",
+                "items" : [{
+                            "text" : "Eat",
+                            "leaf" : true
+                        }, {
+                            "text" : "Sleep",
+                            "leaf" : true
+                        }, {
+                            "text" : "Drinking",
+                            "leaf" : true
+                        }, {
+                            "text" : "Drinking",
+                            "leaf" : true
+                        }
+						]
+            }, {
+                "text" : "Deserts",
+                "items" : [{
+                            "text" : "Watch TV",
+                            "leaf" : true
+                        }, {
+                            "text" : "Watch Video",
+                            "leaf" : true
+                        }]
+            }, {
+                "text" : "Vegetable Dishes",
+                "items" : [{
+                            "text" : "Watch TV",
+                            "leaf" : true
+                        }, {
+                            "text" : "Watch Video",
+                            "leaf" : true
+                        }]
+            }, {
+                "text" : "Sea Food",
+                "items" : [{
+                            "text" : "Eat",
+                            "leaf" : true
+                        }, {
+                            "text" : "Sleep",
+                            "leaf" : true
+                        }, {
+                            "text" : "Drinking",
+                            "leaf" : true
+                        }]
+            },{
+                "text" : "Soups",
+                "items" : [{
+                            "text" : "Eat",
+                            "leaf" : true
+                        }, {
+                            "text" : "Sleep",
+                            "leaf" : true
+                        }, {
+                            "text" : "Drinking",
+                            "leaf" : true
+                        }]
+            },{
+                "text" : "Salads",
+                "items" : [{
+                            "text" : "Eat",
+                            "leaf" : true
+                        }, {
+                            "text" : "Sleep",
+                            "leaf" : true
+                        }, {
+                            "text" : "Drinking",
+                            "leaf" : true
+                        }]
+            },{
+                "text" : "Today Special",
+                "items" : [{
+                            "text" : "Eat",
+                            "leaf" : true
+                        }, {
+                            "text" : "Sleep",
+                            "leaf" : true
+                        }, {
+                            "text" : "Drinking",
+                            "leaf" : true
+                        }]
+            }
+            ]
+}
